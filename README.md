@@ -1,6 +1,6 @@
 ### olá 👋
 
-- 🔭 Cursando Engenharia de computação (UEMG)
+- 🔭 Cursando Engenharia de computação na Universidade do Estado de Minas Gerais
 - 🌱Estudando C e Python
 - 📫Contate-me pelo email: pedroo.s.costaa@gmail.com 
 - 😄 Pronouns: ele/dele
