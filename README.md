@@ -1,4 +1,4 @@
-### olá 👋
+### Olá 👋
 
 - 🔭 Cursando Engenharia de computação na Universidade do Estado de Minas Gerais
 - 🌱Estudando C e Python
