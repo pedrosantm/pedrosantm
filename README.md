@@ -3,7 +3,7 @@
 - 🔭 Cursando Engenharia de computação na Universidade do Estado de Minas Gerais
 - 🌱Estudando C
 - 📫Contate-me pelo email: pedroo.s.costaa@gmail.com 
-- 😄 Pronouns: ele/dele
+  
 
 <div style="display: inline_block"><br>
  
