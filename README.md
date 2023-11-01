@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - 🔭 Cursando Engenharia de computação na Universidade do Estado de Minas Gerais
-- 🌱Estudando C
+- 🌱Estudando C e Banaco de Dados
 - 📫Contate-me pelo email: pedroo.s.costaa@gmail.com 
   
 
