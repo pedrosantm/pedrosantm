@@ -22,3 +22,7 @@
   <a href="https://www.linkedin.com/in/pedro-santos-747961264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrosantm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrosantm&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrosantm&theme=nord_dark) |
+| :-: | :-: | :-: |
